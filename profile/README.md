@@ -11,7 +11,7 @@ When an AI agent says "done", it should be true. Today it often isn't. In one 20
 | [inoku-verified](https://github.com/inoku-labs/inoku-verified) | An independent evaluation of how often an agent's "done" is true, and how often its "I couldn't" is true, on a private test suite. The method, benchmark and the rules of the Inoku Verified™ mark will be published here. | In development |
 | [inoku-os](https://github.com/inoku-labs/inoku-os) | The Linux distribution the evaluation tools ship in. | In development |
 
-Nothing here is for sale. Research, education, open-source projects and small organisations will use everything at no cost; see [pricing](https://inoku.com/pricing/).
+Nothing here is for sale. Research, education and open-source projects will use everything at no cost, and so will organisations under 10 people and $1M in revenue; see [pricing](https://inoku.com/pricing/).
 
 ## Get involved
 
